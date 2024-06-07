@@ -12,7 +12,7 @@ function App() {
     <>
       
       <Header></Header>
-      <div className='md:flex'>
+      <div className='md:flex justify-between'>
     <Blogs></Blogs>
     <Bookmarks></Bookmarks>
       </div>

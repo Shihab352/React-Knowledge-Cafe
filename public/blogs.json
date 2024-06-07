@@ -1,7 +1,7 @@
 [
     {
       "id": "1",
-      "cover_img": "https://i.ibb.co/1GtfskS/banner-template-with-hiking-concept-23-2148467114.jpg",
+      "cover": "https://i.ibb.co/1GtfskS/banner-template-with-hiking-concept-23-2148467114.jpg",
       "title": "The Enchanted Forest",
       "author": "Alice Wonderland",
       "author_img": "https://i.ibb.co/87yVzqL/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction-176420-1518.jpg",
@@ -11,7 +11,7 @@
     },
     {
       "id": "2",
-      "cover_img": "https://i.ibb.co/q12M03j/light-flares-landscape-rendering-23-2150552728.jpg",
+      "cover": "https://i.ibb.co/q12M03j/light-flares-landscape-rendering-23-2150552728.jpg",
       "title": "Journey Through Time",
       "author": "Bob Builder",
       "author_img": "https://i.ibb.co/rsz76fg/portrait-young-man-while-studying-books-641386-449.jpg",
@@ -21,7 +21,7 @@
     },
     {
       "id": "3",
-      "cover_img": "https://i.ibb.co/Qf3KmDc/man-walks-along-road-forest-fog-view-from-back-generative-al-169016-28618.jpg",
+      "cover": "https://i.ibb.co/Qf3KmDc/man-walks-along-road-forest-fog-view-from-back-generative-al-169016-28618.jpg",
       "title": "Mystery of the Old Mansion",
       "author": "Carol Investigator",
       "author_img": "https://i.ibb.co/DpRZhwr/handsome-young-businessman-working-office-1301-3916.jpg",
@@ -31,7 +31,7 @@
     },
     {
       "id": "4",
-      "cover_img": "https://i.ibb.co/f8zZBC3/top-view-vegetables-pan-with-vegetable-soup-with-fusilli-23-2148369749.jpg",
+      "cover": "https://i.ibb.co/f8zZBC3/top-view-vegetables-pan-with-vegetable-soup-with-fusilli-23-2148369749.jpg",
       "title": "Cooking with Passion",
       "author": "David Chef",
       "author_img": "https://i.ibb.co/4YK6S0t/chef-cooking-kitchen-while-wearing-professional-attire-23-2151208316.jpg",
@@ -41,7 +41,7 @@
     },
     {
       "id": "5",
-      "cover_img": "https://i.ibb.co/92GTMgN/young-woman-practicing-yoga-relaxation-exercises-meditating-rock-beach-copy-space-637285-5473.jpg",
+      "cover": "https://i.ibb.co/92GTMgN/young-woman-practicing-yoga-relaxation-exercises-meditating-rock-beach-copy-space-637285-5473.jpg",
       "title": "Yoga for Beginners",
       "author": "Eve Fitness",
       "author_img": "https://i.ibb.co/2gRgHTL/close-up-people-doing-yoga-indoors-23-2150848069.jpg",
