@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover_img": "https://i.ibb.co/1GtfskS/banner-template-with-hiking-concept-23-2148467114.jpg",
+      "title": "The Enchanted Forest",
+      "author": "Alice Wonderland",
+      "author_img": "https://example.com/images/author1.jpg",
+      "posted_date": "2024-01-15",
+      "reading_time": 8 ,
+      "hashtags": ["#fantasy", "#adventure", "#magic"]
+    },
+    {
+      "id": "2",
+      "cover_img": "https://i.ibb.co/q12M03j/light-flares-landscape-rendering-23-2150552728.jpg",
+      "title": "Journey Through Time",
+      "author": "Bob Builder",
+      "author_img": "https://example.com/images/author2.jpg",
+      "posted_date": "2024-02-20",
+      "reading_time": 12 ,
+      "hashtags": ["#sciencefiction", "#time", "#innovation"]
+    },
+    {
+      "id": "3",
+      "cover_img": "https://i.ibb.co/Qf3KmDc/man-walks-along-road-forest-fog-view-from-back-generative-al-169016-28618.jpg",
+      "title": "Mystery of the Old Mansion",
+      "author": "Carol Investigator",
+      "author_img": "https://example.com/images/author3.jpg",
+      "posted_date": "2024-03-05",
+      "reading_time": 10 ,
+      "hashtags": ["#mystery", "#thriller", "#crime"]
+    },
+    {
+      "id": "4",
+      "cover_img": "https://i.ibb.co/f8zZBC3/top-view-vegetables-pan-with-vegetable-soup-with-fusilli-23-2148369749.jpg",
+      "title": "Cooking with Passion",
+      "author": "David Chef",
+      "author_img": "https://example.com/images/author4.jpg",
+      "posted_date": "2024-04-10",
+      "reading_time": 6 ,
+      "hashtags": ["#cooking", "#food", "#recipes"]
+    },
+    {
+      "id": "5",
+      "cover_img": "https://i.ibb.co/92GTMgN/young-woman-practicing-yoga-relaxation-exercises-meditating-rock-beach-copy-space-637285-5473.jpg",
+      "title": "Yoga for Beginners",
+      "author": "Eve Fitness",
+      "author_img": "https://example.com/images/author5.jpg",
+      "posted_date": "2024-05-25",
+      "reading_time": 5,
+      "hashtags": ["#yoga", "#fitness", "#health"]
+    }
+  ]
+  
